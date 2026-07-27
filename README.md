@@ -1,85 +1,75 @@
-# ¡Hola! 👋 Soy Vicevil
+# Hi, I'm Víctor Martínez Peña 👋
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Linux-Arch_Linux-blue?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux Badge"/>
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/HackTheBox-Pentester-success?style=for-the-badge&logo=hack-the-box&logoColor=white" alt="Hack The Box Badge"/>
-</div>
+I'm a technology enthusiast and student of **Systems Microcomputer and Networks (SMR)** based in Jerez de la Frontera, Spain.
 
-Bienvenido a mi perfil de GitHub. Soy un apasionado de la **ciberseguridad**, la **tecnología** y el fascinante mundo de **Linux**. Siempre estoy explorando nuevos conocimientos y retos para mejorar mis habilidades técnicas. Aquí tienes un vistazo a lo que hago y mis intereses:
+My interests include software development, system administration, infrastructure, cybersecurity and artificial intelligence. I enjoy building practical projects, managing server environments and learning through experimentation and documentation.
 
----
+## 🧰 Technologies and tools
 
-## 🧑‍💻 Sobre mí
+### Programming and development
+- Java, Python, JavaScript, PHP and C#
+- Bash and PowerShell
+- SQL, HTML and CSS
+- Git, GitHub and Maven
 
-- 💻 **Sistema operativo:** Arch Linux ("BTW, I use Arch").
-- 🎓 **Estudiante de 3º de ESO:** Aprendiendo como profesional mientras combino estudios y tecnología.
-- 🔐 **Ciberseguridad:** Pentesting, vulnerabilidades y capturas de bandera.
-- 🛠 **Certificaciones:** Preparándome para el **eJPTv2**.
-- 🎮 **Hack The Box:** Mejorando habilidades prácticas. Mi perfil: [Haz click aquí](https://app.hackthebox.com/profile/2159140).
-- 🌟 **Ambiente de trabajo:**
-  - Arch Linux en todos mis equipos.
-  - Uso intensivo de **máquinas virtuales** y **Docker** para entornos aislados.
+### Systems and infrastructure
+- Linux, Windows and WSL
+- Docker and containerized environments
+- VPS administration, SSH and virtualization
+- Nginx and Apache
+- Oracle Cloud
+- MySQL and MariaDB
 
----
+### Networking and cybersecurity
+- VLANs, VPNs and firewall rules
+- Network analysis with Wireshark
+- Network scanning with Nmap
+- Suricata, Pi-hole and OpenWrt
+- Access control and infrastructure security
 
-## 🚀 Habilidades
+## 🚀 Featured projects
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Bash-Scripting-green?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge"/>
-  <img src="https://img.shields.io/badge/Java-OpenJDK_23-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
-  <img src="https://img.shields.io/badge/Networking-VPN-blueviolet?style=for-the-badge&logo=wireguard&logoColor=white" alt="Networking Badge"/>
-</div>
+### [HostInfo](https://github.com/vicevilz/HostInfo)
+Java plugin for Paper and Velocity servers that provides detailed information about the host, JVM and server environment.
 
-- **Lenguajes de programación:** Python 🐍, Java ☕, Bash 🖥️.
-- **Ciberseguridad:** Pentesting, escalada de privilegios, túneles y sistemas seguros.
-- **Linux:** Experto en personalización avanzada (BSPWM, Zsh, Powerlevel10k).
-- **Virtualización:** VirtualBox, VMware, Docker.
-- **Redes:** Configuración de VPNs, proxys y herramientas.
+- System resource and server information
+- Paper and Velocity support
+- LuckPerms integration
+- Maven-based project
 
----
+### [ZamoraMC-Status](https://github.com/vicevilz/ZamoraMC-Status)
+Java plugin that checks the status of servers connected through a Velocity proxy and exposes their availability through placeholders.
 
-## 📂 Proyectos destacados
+### [ZamoraMC-Close](https://github.com/vicevilz/ZamoraMC-Close)
+Java administrative plugin for remotely managing player inventories through commands and permissions.
 
-### 🔗 [CIBERSEGURIDAD_THEBRIDGE](https://github.com/vicevil77/CIBERSEGURIDAD_THEBRIDGE)
-Un repositorio enfocado en los estudios y avances en ciberseguridad de mi padre durante un bootcamp en ciberseguridad de [TheBridge](https://thebridge.tech). Contiene ejercicios prácticos, scripts personalizados y documentación detallada sobre diversas técnicas de hacking y seguridad.
+## 🖥️ Practical experience
 
-### 🛠 Scripts para compartir proximamente
-- Script programado en bash con varias herramientas automatizadas enfocadas para el pentesting.
-- Estoy trabajando en muchos más y lo mas probable es que los comparta en mi Github.
+- Technical development and administration for **ZamoraMC**, a public Minecraft server network.
+- Configuration and maintenance of Paper and Velocity servers.
+- Plugin development, permissions management, performance optimization and technical troubleshooting.
+- Linux system administration, VPS management, Docker, SSH, firewalls and automated backups.
+- Assembly, maintenance and component replacement for desktop computers, laptops and mobile devices.
+- Installation and configuration of Windows and Linux distributions, including Arch Linux, Ubuntu, Linux Mint and Kali Linux.
 
-### 🌐 Servidores y redes
-- Gestión de servidores de Minecraft y VPNs.
-- Optimización de proxys con Velocity y herramientas avanzadas.
+## 🌱 Currently learning
 
----
+- Advanced system administration
+- Cybersecurity and ethical hacking
+- Software architecture
+- Artificial intelligence and AI-assisted development
 
-## 🎯 Objetivos
+## 📚 Certifications and training
 
-1. **Certificación eJPTv2:** Avanzar hacia el OSCP y más.
-2. **Hack The Box:** Subir rankings y aprender técnicas avanzadas.
-3. **Aportar a la comunidad:** Scripts y herramientas útiles.
-4. **Explorar nuevas tecnologías:** Machine learning aplicado a ciberseguridad.
+- **C1b3rwall 2026** — Policía Nacional
+- **Cybersecurity and Ethical Hacking** — BIG SCHOOL, 2026
+- **AI-assisted Development** — BIG SCHOOL / Brais Moure, 2026
+- **Introduction to AI** — BIG SCHOOL / Jon Hernández, 2025
+- **Data Scientist with AI Conference** — BIG SCHOOL / Gerard Sánchez, 2026
 
----
+## 📫 Contact
 
-## 🖥️ Mi portafolio personal
+- [LinkedIn](https://www.linkedin.com/in/victor-martinez-pe%C3%B1a/)
+- [GitHub](https://github.com/vicevilz)
 
-### 💼 [Haz click aquí](https://vicevilz.github.io/personal_portfolio_01/)
-
----
-
-## 📫 Conecta conmigo
-
-<div align="center">
-  <a href="https://github.com/vicevilz">
-    <img src="https://img.shields.io/github/followers/vicevilz?label=Follow&style=social" alt="GitHub Followers"/>
-  </a>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-Active-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</div>
-
----
-
-_Siempre buscando aprender más y compartir el conocimiento._ ¡Gracias por pasarte por mi perfil! 😄
+Thanks for visiting my profile!
