@@ -1,6 +1,6 @@
 # Hi, I'm Víctor Martínez Peña 👋
 
-I'm a technology enthusiast and student of **Systems Microcomputer and Networks (SMR)** based in Jerez de la Frontera, Spain.
+I'm a technology enthusiast and student of **Systems Microcomputer and Networks (SMR)** in Spain
 
 My interests include software development, system administration, infrastructure, cybersecurity and artificial intelligence. I enjoy building practical projects, managing server environments and learning through experimentation and documentation.
 
